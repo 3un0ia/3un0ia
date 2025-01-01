@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&theme=buefy&text=Welcome%20to%20Sohyeon's%20GitHub!&fontSize=35&desc=👋%20Hi%20there!%20I’m%20developer%20who%20tries%20to%20create%20better%20services%20for%20people&fontColor=FCB8B8)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&theme=buefy&text=Welcome%20to%20Sohyeon's%20GitHub!&fontSize=35&fontAlignY=45&desc=👋%20Hi%20there!%20I’m%20developer%20who%20tries%20to%20create%20better%20services%20for%20people&descAlignY=55&fontColor=FCB8B8)
 
 
 ### 💌 Contact
