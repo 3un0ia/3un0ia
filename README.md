@@ -6,7 +6,7 @@
 
 <a href="https://booming-coaster-e59.notion.site/Sohyeon-Hong-16ea795e9a6180d78680cb65858c62ba"><img src="https://img.shields.io/badge/Portfolio-D3D3D3.svg?style=for-the-badge&logo=notion&logoColor=000000" />
 <a href="https://www.instagram.com/_hxx_sh?igsh=MTBhdDl3ZjJyamsyMQ=="><img src="https://img.shields.io/badge/Instagram-FFB5C0.svg?style=for-the-badge&logo=instagram&logoColor=FF0069" />
-<a href="mailto:xxxx83145@gmail.com"><img src="https://img.shields.io/badge/E_Mail_Address-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<a href="mailto:xxxx83145@gmail.com"><img src="https://img.shields.io/badge/xxxx83145@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 
 
 
